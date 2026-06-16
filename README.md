@@ -1,16 +1,16 @@
-# Weather Finder Project
+# Exam Results Project
 
 ## Objective
-To get live weather information for a city.
+To analyze student exam results using Pandas.
 
 ## Features
-- User Input
-- API Integration
-- Real-time Weather Data
+- Read CSV Data
+- Calculate Average Marks
+- Find Highest Marks
 
 ## Technologies Used
 - Python
-- Requests Library
+- Pandas
 
 ## Author
 V. Thejasree
