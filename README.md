@@ -1,17 +1,16 @@
-# Document Viewer Project
+# Weather Finder Project
 
 ## Objective
-To display the documents and files available in a folder using Python.
+To get live weather information for a city.
 
 ## Features
 - User Input
-- File Listing
-- OS Module
-- Exception Handling
+- API Integration
+- Real-time Weather Data
 
 ## Technologies Used
 - Python
-- OS Module
+- Requests Library
 
 ## Author
 V. Thejasree
